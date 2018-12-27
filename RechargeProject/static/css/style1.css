@@ -1,0 +1,57 @@
+body{
+  background: url('onepiece.jpg');
+  background-color: rgba(5,56,107,0.25)
+}
+
+#one{
+  margin: 200px 200px 200px 200px;
+  border-radius: 25px;
+}
+#two{
+  width: 100%;
+ }
+ #three{
+   background: rgb(5,56,107);
+   margin-bottom: 0px;
+   width: 100%;
+   color: #edf5e1;
+  }
+#four{
+  color: rgb(5,56,107);
+}
+#five{
+  color: #05386b;
+}
+#six{
+  background: #05386b;
+}
+.jumbotron1{
+  margin: 200px 200px 200px 200px;
+  padding: 0px 300px 0px 300px;
+  background: #05386b;
+  color: #edf5e1;
+}
+#eight{
+  margin: 200px 200px 200px 200px;
+  border-radius: 25px;
+  background: #edf5e1;
+  color: #05386b;
+}
+#nine{
+  max-height: 500px;
+  max-width: 400px;
+  margin: 10px 0px 200px 1000px;
+}
+#ten{
+  max-height: 500px;
+  max-width: 400px;
+  margin: 10px 0px 200px 100px;
+}
+#eleven{
+  background: #edf5e1;
+  color: #05386b;
+}
+#navbar{
+border-radius: 5px;
+padding: 0px 10px 0px 10px;
+}

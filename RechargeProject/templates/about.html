@@ -1,0 +1,8 @@
+{% extends "index.html" %}
+{% block bodyblock %}
+<div class="jumbotron jumbotron1" >
+  <h1>YOUR CODE IS: {{code}}</h1>
+  <a href="{% url "app1:index" %}">Return Home</a>
+</div>
+
+{%endblock%}
